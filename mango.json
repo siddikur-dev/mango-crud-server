@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Himsagar Mango",
+    "origin": "Rajshahi, Bangladesh",
+    "taste": "Sweet and aromatic",
+    "price_per_kg": 250,
+    "image": "https://live.tanvir.live/storage/app/public/Bdl4otBypdwmvtnPVzLYIv0FNRv0flHxz8yTAB2a.jpg",
+    "season": "May - July",
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "name": "Langra Mango",
+    "origin": "Chapainawabganj, Bangladesh",
+    "taste": "Tangy and fibrous",
+    "price_per_kg": 220,
+    "image": "https://chapaimango.shop/wp-content/uploads/al_opt_content/IMAGE/chapaimango.shop/wp-content/uploads/2025/05/Buy-Langra-Mango.jpg.bv_resized_ipad.jpg.bv.webp?bv_host=chapaimango.shop",
+    "season": "June - August",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Amrapali Mango",
+    "origin": "Dinajpur, Bangladesh",
+    "taste": "Rich and pulpy",
+    "price_per_kg": 240,
+    "image": "https://indiangloriousnursery.com/wp-content/uploads/2023/04/pg-mango-amrapali-800x800-1.jpg",
+    "season": "June - July",
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Fazli Mango",
+    "origin": "Rajshahi, Bangladesh",
+    "taste": "Juicy and mildly sweet",
+    "price_per_kg": 260,
+    "image": "https://www.mangovaiya.com/wp-content/uploads/2023/05/Fozli-mango-fazli-mango-Fajli-mango-fojli-mango-%E0%A6%AB%E0%A6%9C%E0%A6%B2%E0%A6%BF-%E0%A6%86%E0%A6%AE.webp",
+    "season": "July - August",
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "name": "Banganapalli Mango",
+    "origin": "Khulna, Bangladesh",
+    "taste": "Smooth and honey-like",
+    "price_per_kg": 230,
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPtR7_OH2RSQJRGzroKoeScpWuczJNyETRuVht0-CFTWYXFzPrYP54XEIRdFCfHaTyYh68aHHZFSXTUjOi_AJNOIoCfuGWGgr7DOYC8-qs",
+    "season": "April - June",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Gopalbhog Mango",
+    "origin": "Rajshahi, Bangladesh",
+    "taste": "Soft and sugary",
+    "price_per_kg": 270,
+    "image": "https://www.mangovaiya.com/wp-content/uploads/2023/05/gopalbhog-mango-%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%AD%E0%A7%8B%E0%A6%97-%E0%A6%86%E0%A6%AE.webp",
+    "season": "May - July",
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "name": "Khirsapat Mango",
+    "origin": "Naogaon, Bangladesh",
+    "taste": "Delicate and sweet aroma",
+    "price_per_kg": 255,
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsy9oipYyIQCNR8ht0m2deE2TyY_2ko28QUzQwBoy01kIJesz3sw7oil2HQ3z_7XlhArn3Yiqnt4jmvLpytB_N8l06GnsvBeGOJEvQGTErbQ",
+    "season": "May - June",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "name": "Rani Pasand Mango",
+    "origin": "Jessore, Bangladesh",
+    "taste": "Creamy and floral",
+    "price_per_kg": 245,
+    "image": "https://scontent.fdac22-2.fna.fbcdn.net/v/t39.30808-6/508561748_3847108382100108_7215009181875515042_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=uMLJpTMvOi0Q7kNvwFg0YSO&_nc_oc=AdmUVM1_KYDZBBGhyp7B59uFrlDoWjzv9ULpKKOCefdKNaGt4P1VqB0C8kUR-nNAyGo&_nc_zt=23&_nc_ht=scontent.fdac22-2.fna&_nc_gid=nEcEhX4KawXjpfM0-vWzmw&oh=00_AfcjdSIHScAV7Fxx5WioBT4ogqSy_hGwUH0kOOx23V7Gsg&oe=6904D6D5",
+    "season": "June - July",
+    "rating": 4.7
+  }
+]
